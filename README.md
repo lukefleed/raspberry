@@ -1,4 +1,4 @@
-#Stuff that I use with my Pi 4
+# Stuff that I use with my Pi 4
 
 ## Script for monitoring temperature on Raspberry Pi
 
