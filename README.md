@@ -8,7 +8,7 @@ First of all you need to download the script.
 git clone https://github.com/lukefleed/raspberry && cd raspberry
 ```
 
-Then you just have to type (you need pyhton installed)  
+Then you just have to type 
 
 ```
 python temp.py
